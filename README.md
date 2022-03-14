@@ -15,6 +15,9 @@ To install LuaJIT do this: `haxelib install linc_luajit` on a Command prompt/Pow
 * RiverOaken - Arts and Animations
 * bbpanzu - Assistant Coding
 
+#### Edited Version Credits
+* Eren Kaya - Maded The Edited Version lol
+
 ### Special Thanks
 * shubs - New Input System
 * SqirraRNG - Chart Editor's Sound Waveform base code
